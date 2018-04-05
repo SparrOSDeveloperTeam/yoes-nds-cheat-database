@@ -10,7 +10,7 @@
 
 Here is a list of supported games for the database file:
 
-<center>
+:---:
 | Title of Game                            | NTSC-U | PAL   | NTSC-J |
 | :---:                                    | :---:  | :---: | :---:  |
 | Nintendogs Dachshund & Friends           | ✓      | ✓     | X      |
@@ -33,7 +33,7 @@ Here is a list of supported games for the database file:
 | Kirby Super Star Ultra                   | X      | X     | X      |
 | Sonic Classic Collection                 | X      | X     | X      |
 | Super Mario Kart DS                      | X      | X     | X      |
-</center>
+:---
 
 (_List under construction_)
 
