@@ -32,6 +32,7 @@ Here is a list of supported games for the database file:
 | Kirby Super Star Ultra                   | X      | X     | X      |
 | Sonic Classic Collection                 | X      | X     | X      |
 | Super Mario Kart DS                      | X      | X     | X      |
+| Mario Party DS                           | X      | X     | X      |
 
 (_List under construction_)
 
