@@ -12,7 +12,7 @@ Here is a list of supported games for the database file:
 
 | Title of Game                            | NTSC-U | PAL   | NTSC-J |
 | :---:                                    | :---:  | :---: | :---:  |
-| <a href="https://github.com/SparrOSDeveloperTeam/yoes-nds-cheat-database/tree/master/cheat-txts/nintendogs-dachshund">Nintendogs Dachshund & Friends</a>           | ✓      | ✓     | X      |
+| <a href="https://github.com/SparrOSDeveloperTeam/yoes-nds-cheat-database/tree/master/cheat-txts/nintendogs-dachshund">Nintendogs Dachshund & Friends</a>           | <a href="https://github.com/SparrOSDeveloperTeam/yoes-nds-cheat-database/raw/master/cheat-txts/nintendogs-dachshund/nintendogs-dachshund-u.txt">✓</a>      | <a href="https://github.com/SparrOSDeveloperTeam/yoes-nds-cheat-database/raw/master/cheat-txts/nintendogs-dachshund/nintendogs-dachshund-e.txt">✓</a>     | X      |
 | Nintendogs Shiba Innu & Friends          | X      | X     | X      |
 | Nintendogs Dalmatian & Friends           | X      | X     | X      |
 | Nintendogs Labrador & Friends            | X      | X     | X      |
