@@ -21,6 +21,12 @@ Here is a list of supported games for the database file:
 | Pokémon Platinum                | X      | X     | X      |
 | Pokémon Black                   | X      | X     | X      |
 | Pokémon White                   | X      | X     | X      |
+| Pokémon Black 2                 | X      | X     | X      |
+| Pokémon White 2                 | X      | X     | X      |
+| Pokémon HeartGold               | X      | X     | X      |
+| Pokémon SoulSilver              | X      | X     | X      |
+| Super Mario 64 DS               | X      | X     | X      |
+| RPG Tsukuru DS                  |        |       | X      |
 
 
 <a id="how-to-setup" name="how-to-setup" />
