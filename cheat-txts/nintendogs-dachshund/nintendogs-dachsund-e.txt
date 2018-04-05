@@ -1,0 +1,115 @@
+Nintendogs Dachshund & Friends (PAL)
+Infinite money:
+(To enable, press select and enter a shop screen)
+94000130 fffb0000
+021aa82c 05f5e0ff
+021aaedc 05f5e0ff
+d2000000 00000000
+
+Max trainer points:
+94000130 fffb0000
+021aa7c0 0000270f
+d2000000 00000000
+
+Infinite competition entry points
+221af5ca 00000001
+
+Hold R+L While Saving for Beagle 
+94000130 fdff0000
+221af540 00000000
+d2000000 00000000
+ 
+Hold R+L While Saving for Miniature Dashund 
+94000130 fdff0000
+221af540 00000001
+d2000000 00000000
+ 
+Hold R+L While Saving for Chihuahua 
+94000130 fdff0000
+221af540 00000002
+d2000000 00000000
+ 
+Hold R+L While Saving for Labrador Retriever 
+94000130 fdff0000
+221af540 00000003
+d2000000 00000000
+ 
+Hold R+L While Saving for Chiba Inu 
+94000130 fdff0000
+221af540 00000004
+d2000000 00000000
+ 
+Hold R+L While Saving for Toy Poodle 
+94000130 fdff0000
+221af540 00000005
+d2000000 00000000
+ 
+Hold R+L While Saving for Pug 
+94000130 fdff0000
+221af540 00000006
+d2000000 00000000
+ 
+Hold R+L While Saving for German Shepherd 
+94000130 fdff0000
+221af540 00000007
+d2000000 00000000
+ 
+Hold R+L While Saving for Cavalier K.C. Spaniel 
+94000130 fdff0000
+221af540 00000008
+d2000000 00000000
+ 
+Hold R+L While Saving for Pembroke Welsh Corgi 
+94000130 fdff0000
+221af540 00000009
+d2000000 00000000
+ 
+Hold R+L While Saving for Miniature Pinscher 
+94000130 fdff0000
+221af540 0000000a
+d2000000 00000000
+ 
+Hold R+L While Saving for Shi Tzu 
+94000130 fdff0000
+221af540 0000000b
+d2000000 00000000
+ 
+Hold R+L While Saving for Yorkshire Terrier 
+94000130 fdff0000
+221af540 0000000c
+d2000000 00000000
+ 
+Hold R+L While Saving for Miniature Schnauzer 
+94000130 fdff0000
+221af540 0000000d
+d2000000 00000000
+ 
+Hold R+L While Saving for Golden retriever 
+94000130 fdff0000
+221af540 0000000e
+d2000000 00000000
+ 
+Hold R+L While Saving for Shetland Sheepdog 
+94000130 fdff0000
+221af540 00000011
+d2000000 00000000
+ 
+Hold R+L While Saving for Jack Russel Terrier 
+94000130 fdff0000
+221af540 00000012
+d2000000 00000000
+ 
+Hold R+L While Saving for Dalmatian 
+94000130 fdff0000
+221af540 00000013
+d2000000 00000000
+ 
+Hold R+L While Saving for Boxer 
+94000130 fdff0000
+221af540 00000014
+d2000000 00000000
+ 
+Hold R+L While Saving for Siberian Husky 
+94000130 fdff0000
+221af540 00000015
+d2000000 00000000
