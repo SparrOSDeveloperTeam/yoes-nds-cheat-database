@@ -35,11 +35,15 @@ Here is a list of supported games for the database file:
 
 (_List under construction_)
 
+Don't see a game you want? Tell us what game(s) you want added in the <a href="https://github.com/SparrOSDeveloperTeam/yoes-nds-cheat-database/issues">issues</a> section and we will add it as soon as possible.
+
 
 <a id="how-to-setup" name="how-to-setup" />
 ## How to Set Up Cheat Database
 
 (_Article under construction_)
+
+It's recommended that you download the archive in the <a href="#downloads">Downloads</a> section. To install the cheat database, download the <a href="https://github.com/Robz8/TWLoader/releases/download/v6.6.2/TWLoader.7z">TWLoader</a> file browser here and copy the contents of the archive to your sd card. If you don't already have the tool, please download <a href="https://www.7-zip.org/">7-Zip</a> immediately. In the TTMenu folder on the sd card, rename `usrcheat.dat` to something along the lines of `usercheat.bak` or anything other than `usrcheat.dat`. Then copy the `usrcheat.dat` from the `yoes_usercheat-database_current.zip` archive to the TTMenu folder. The above list will tell you whether or not there are cheats available for your NDS roms and regions.
 
 
 <a id="downloads" name="downloads" />
