@@ -10,23 +10,30 @@
 
 Here is a list of supported games for the database file:
 
-| Title of Game                   | NTSC-U | PAL   | NTSC-J |
-| :---:                           | :---:  | :---: | :---:  |
-| Nintendogs Dachshund & Friends  | ✓      | ✓     | X      |
-| Nintendogs Shiba Innu & Friends | X      | X     | X      |
-| Nintendogs Dalmatian & Friends  | X      | X     | X      |
-| Nintendogs Labrador & Friends   | X      | X     | X      |
-| Pokémon Diamond                 | ✓      | X     | X      |
-| Pokémon Pearl                   | X      | X     | X      |
-| Pokémon Platinum                | X      | X     | X      |
-| Pokémon Black                   | X      | X     | X      |
-| Pokémon White                   | X      | X     | X      |
-| Pokémon Black 2                 | X      | X     | X      |
-| Pokémon White 2                 | X      | X     | X      |
-| Pokémon HeartGold               | X      | X     | X      |
-| Pokémon SoulSilver              | X      | X     | X      |
-| Super Mario 64 DS               | X      | X     | X      |
-| RPG Tsukuru DS                  |        |       | X      |
+| Title of Game                            | NTSC-U | PAL   | NTSC-J |
+| :---:                                    | :---:  | :---: | :---:  |
+| Nintendogs Dachshund & Friends           | ✓      | ✓     | X      |
+| Nintendogs Shiba Innu & Friends          | X      | X     | X      |
+| Nintendogs Dalmatian & Friends           | X      | X     | X      |
+| Nintendogs Labrador & Friends            | X      | X     | X      |
+| Pokémon Diamond                          | ✓      | X     | X      |
+| Pokémon Pearl                            | X      | X     | X      |
+| Pokémon Platinum                         | X      | X     | X      |
+| Pokémon Black                            | X      | X     | X      |
+| Pokémon White                            | X      | X     | X      |
+| Pokémon Black 2                          | X      | X     | X      |
+| Pokémon White 2                          | X      | X     | X      |
+| Pokémon HeartGold                        | X      | X     | X      |
+| Pokémon SoulSilver                       | X      | X     | X      |
+| Super Mario 64 DS                        | X      | X     | X      |
+| RPG Tsukuru DS                           |        |       | X      |
+| RPG Tsukuru DS Plus Create the New World |        |       | X      |
+| Tomodachi Collection                     |        |       | X      |
+| Kirby Super Star Ultra                   | X      | X     | X      |
+| Sonic Classic Collection                 | X      | X     | X      |
+| Super Mario Kart DS                      | X      | X     | X      |
+
+(_List under construction_)
 
 
 <a id="how-to-setup" name="how-to-setup" />
