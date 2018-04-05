@@ -1,2 +1,1 @@
-# yoes-nds-cheat-database
-Our list of action replay cheats for you
+# Yoe's Action Replay DS cheats for flash carts
