@@ -34,8 +34,8 @@ Here is a list of supported games for the database file:
 | Sonic Classic Collection                                     | X      | X     | X      |
 | Super Mario Kart DS                                          | X      | X     | X      |
 | Mario Party DS                                               | X      | X     | X      |
-| Carnival Games                                               | X      | X     | X      |
-| New Carnival Games                                           | X      | X     | X      |
+| Carnival Games                                               | X      | X     |        |
+| New Carnival Games                                           | X      |       |        |
 | Pokémon Mystery Dungeon Blue Rescue Team                     | X      | X     | X      |
 | Pokémon Mystery Dungeon Red Rescue Team                      | X      | X     | X      |
 | Pokémon Mystery Dungeon Explorers of Time                    | X      | X     | X      |
