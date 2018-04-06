@@ -10,37 +10,37 @@
 
 Here is a list of supported games for the database file:
 
-| Title of Game                                 | NTSC-U | PAL   | NTSC-J |
-| :---                                          | :---:  | :---: | :---:  |
-| <a href="https://github.com/SparrOSDeveloperTeam/yoes-nds-cheat-database/tree/master/cheat-txts/nintendogs-dachshund">Nintendogs Dachshund & Friends</a>                              | <a href="https://github.com/SparrOSDeveloperTeam/yoes-nds-cheat-database/raw/master/cheat-txts/nintendogs-dachshund/nintendogs-dachshund-u.txt">✓</a>      | <a href="https://github.com/SparrOSDeveloperTeam/yoes-nds-cheat-database/raw/master/cheat-txts/nintendogs-dachshund/nintendogs-dachshund-e.txt">✓</a>     | X      |
-| Nintendogs Shiba Innu & Friends                             | X      | X     | X      |
-| Nintendogs Dalmatian & Friends                              | X      | X     | X      |
-| Nintendogs Labrador & Friends                               | X      | X     | X      |
-| Pokémon Diamond                                             | ✓      | X     | X      |
-| Pokémon Pearl                                               | X      | X     | X      |
-| Pokémon Platinum                                            | X      | X     | X      |
-| Pokémon Black                                               | X      | X     | X      |
-| Pokémon White                                               | X      | X     | X      |
-| Pokémon Black 2                                             | X      | X     | X      |
-| Pokémon White 2                                             | X      | X     | X      |
-| Pokémon HeartGold                                           | X      | X     | X      |
-| Pokémon SoulSilver                                          | X      | X     | X      |
-| Super Mario 64 DS                                           | X      | X     | X      |
-| RPG Tsukuru DS                                              |        |       | X      |
-| RPG Tsukuru DS Plus Create the New World                    |        |       | X      |
-| Tomodachi Collection                                        |        |       | X      |
-| Kirby Super Star Ultra                                      | X      | X     | X      |
-| Sonic Classic Collection                                    | X      | X     | X      |
-| Super Mario Kart DS                                         | X      | X     | X      |
-| Mario Party DS                                              | X      | X     | X      |
-| Carnival Games                                              | X      | X     | X      |
-| New Carnival Games                                          | X      | X     | X      |
-| Pokémon Mystery Dungeon Blue Rescue Team                    | X      | X     | X      |
-| Pokémon Mystery Dungeon Red Rescue Team                     | X      | X     | X      |
-| Pokémon Mystery Dungeon Explorers of Time                   | X      | X     | X      |
-| Pokémon Mystery Dungeon Explorers of Darkness               | X      | X     | X      |
-| Pokémon Mystery Dungeon Explorers of Sky                    | X      | X     | X      |
-| Pokémon Mystery Dungeon Keep Going! Blazing Adventure Squad! Let's Go! Stormy Adventure Squad!, and Go For It! Light Adventure Squad!
+| Title of Game                                                | NTSC-U | PAL   | NTSC-J |
+| :---                                                         | :---:  | :---: | :---:  |
+| <a href="https://github.com/SparrOSDeveloperTeam/yoes-nds-cheat-database/tree/master/cheat-txts/nintendogs-dachshund">Nintendogs Dachshund & Friends</a>                               | <a href="https://github.com/SparrOSDeveloperTeam/yoes-nds-cheat-database/raw/master/cheat-txts/nintendogs-dachshund/nintendogs-dachshund-u.txt">✓</a>      | <a href="https://github.com/SparrOSDeveloperTeam/yoes-nds-cheat-database/raw/master/cheat-txts/nintendogs-dachshund/nintendogs-dachshund-e.txt">✓</a>     | X      |
+| Nintendogs Shiba Innu & Friends                              | X      | X     | X      |
+| Nintendogs Dalmatian & Friends                               | X      | X     | X      |
+| Nintendogs Labrador & Friends                                | X      | X     | X      |
+| Pokémon Diamond                                              | ✓      | X     | X      |
+| Pokémon Pearl                                                | X      | X     | X      |
+| Pokémon Platinum                                             | X      | X     | X      |
+| Pokémon Black                                                | X      | X     | X      |
+| Pokémon White                                                | X      | X     | X      |
+| Pokémon Black 2                                              | X      | X     | X      |
+| Pokémon White 2                                              | X      | X     | X      |
+| Pokémon HeartGold                                            | X      | X     | X      |
+| Pokémon SoulSilver                                           | X      | X     | X      |
+| Super Mario 64 DS                                            | X      | X     | X      |
+| RPG Tsukuru DS                                               |        |       | X      |
+| RPG Tsukuru DS Plus Create the New World                     |        |       | X      |
+| Tomodachi Collection                                         |        |       | X      |
+| Kirby Super Star Ultra                                       | X      | X     | X      |
+| Sonic Classic Collection                                     | X      | X     | X      |
+| Super Mario Kart DS                                          | X      | X     | X      |
+| Mario Party DS                                               | X      | X     | X      |
+| Carnival Games                                               | X      | X     | X      |
+| New Carnival Games                                           | X      | X     | X      |
+| Pokémon Mystery Dungeon Blue Rescue Team                     | X      | X     | X      |
+| Pokémon Mystery Dungeon Red Rescue Team                      | X      | X     | X      |
+| Pokémon Mystery Dungeon Explorers of Time                    | X      | X     | X      |
+| Pokémon Mystery Dungeon Explorers of Darkness                | X      | X     | X      |
+| Pokémon Mystery Dungeon Explorers of Sky                     | X      | X     | X      |
+| Star Wars Lethal Alliance                                    | X      | X     |        |
 
 (_List under construction_)
 
