@@ -42,6 +42,8 @@ Here is a list of supported games for the database file:
 | Pokémon Mystery Dungeon Explorers of Darkness                | X      | X     | X      |
 | Pokémon Mystery Dungeon Explorers of Sky                     | X      | X     | X      |
 | Star Wars Lethal Alliance                                    | X      | X     |        |
+| New Super Mario Bros.                                        | X      | X     | X      |
+| The Legend of Zelda Phantom Hourglass                        | X      | X     | X      |
 
 (_List under construction_)
 
