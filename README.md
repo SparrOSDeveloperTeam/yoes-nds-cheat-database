@@ -1,4 +1,4 @@
-# Yoe's Action Replay DS cheats for flash carts
+# Yoe's Action Replay DS cheats for r4 flash carts
 
 <center>
   | <a href="#compatibility">List of Supported Games</a> | <a href="#how-to-setup">How to Set Up Cheat Database</a> | <a href="#downloads">Downloads</a> |
