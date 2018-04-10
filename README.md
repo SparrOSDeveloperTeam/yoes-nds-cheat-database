@@ -44,6 +44,7 @@ Here is a list of supported games for the database file:
 | Star Wars Lethal Alliance                                    | X      | X     |        |
 | New Super Mario Bros.                                        | X      | X     | X      |
 | The Legend of Zelda Phantom Hourglass                        | X      | X     | X      |
+| Diddy Kong Racing DS                                         | X      | X     | X      |
 
 (_List under construction_)
 
