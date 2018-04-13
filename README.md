@@ -1,5 +1,7 @@
 # Yoe's Action Replay DS cheats for r4 flash carts
 
+Do note: After we finish COS and catch up on SYGTVG we will be working on this too.
+
 <center>
   | <a href="#compatibility">List of Supported Games</a> | <a href="#how-to-setup">How to Set Up Cheat Database</a> | <a href="#downloads">Downloads</a> |
 </center>
