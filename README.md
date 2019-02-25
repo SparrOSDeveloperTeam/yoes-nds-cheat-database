@@ -10,4 +10,5 @@ We have a new objective, which is to find every game with WFC support and implem
 You will find that the graph below lists all games compatible with the WFC hack. Not all regions have been implemented yet, please be patient.
 
 | Game Title | NTSC-U |
+| :--- | :---: |
 | Pokemon Diamond |  |
