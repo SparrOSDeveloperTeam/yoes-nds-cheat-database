@@ -10,7 +10,7 @@ We have a new objective, which is to find every game with WFC support and implem
 You will find that the graph below lists all games compatible with the WFC hack.
 
 | Game Title | NTSC-U | NTSC-J | PAL | Other |
-| :--- | :---: | :---: | :---: | :---: |
+| :--- | :---: | :---: | :---: | :--- |
 | Diddy Kong Racing DS | :heavy_check_mark: | :x: | :heavy_check_mark: | n/a |
 | Final Fantasy Crystal Chronicles: Echoes of Time | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | n/a |
 | GRID | :heavy_check_mark: | :question: | :question: | n/a |
