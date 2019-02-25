@@ -7,7 +7,7 @@ We have a new objective, which is to find every game with WFC support and implem
 
 ## Supported Games
 
-You will find that the graph below lists all games compatible with the WFC hack.
+You will find that the graph below lists all games compatible with the WFC hack. (Pokemon is not available right now due to missing header info)
 
 | Game Title | NTSC-U | NTSC-J | PAL | Other |
 | :--- | :---: | :---: | :---: | :--- |
