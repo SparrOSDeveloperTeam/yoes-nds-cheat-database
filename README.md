@@ -33,6 +33,6 @@ You will find that the graph below lists all games compatible with the WFC hack.
 | Pokemon White 2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Spain |
 | Ragnarok DS | :heavy_check_mark: | :x: | :x: | n/a |
 | Star Fox Command | :heavy_check_mark: | :x: | :x: | n/a |
-| Tetris DS | :heavy_check_mark: | :x: | :x: | :x: | n/a |
+| Tetris DS | :heavy_check_mark: | :x: | :x: | n/a |
 | WarioWare D.I.Y. | :heavy_check_mark: | :x: | :x: | n/a |
 | Welcome to Animal Crossing: Wild World | :heavy_check_mark: | :x: | :x: | n/a |
