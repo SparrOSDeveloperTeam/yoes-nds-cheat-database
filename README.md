@@ -7,8 +7,8 @@ We have a new objective, which is to find every game with WFC support and implem
 
 ## Downloads
 
-*[Current Release - v0.2](https://github.com/SparrOSDeveloperTeam/yoes-nds-cheat-database/releases/download/v0.2/yoes_usercheat-database_current.zip)
-*[Old Release - v0.1](https://github.com/SparrOSDeveloperTeam/yoes-nds-cheat-database/releases/download/v0.1/usrcheat-old_v0.1.zip)
+* [Current Release - v0.2](https://github.com/SparrOSDeveloperTeam/yoes-nds-cheat-database/releases/download/v0.2/yoes_usercheat-database_current.zip)
+* [Old Release - v0.1](https://github.com/SparrOSDeveloperTeam/yoes-nds-cheat-database/releases/download/v0.1/usrcheat-old_v0.1.zip)
 
 ## Supported Games
 
