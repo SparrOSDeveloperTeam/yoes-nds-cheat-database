@@ -3,7 +3,7 @@ Our list of action replay cheats for you
 
 ## New Objective
 
-We have a new objective, which is to find every game with WFC support and implement a hack AR code that allows them to be able to connect to Wiimmfi.
+We have a new objective, which is to find every game with WFC support and implement a hack AR code that allows them to be able to connect to [Wiimmfi](https://wiimmfi.de/).
 
 ## Downloads
 
