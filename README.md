@@ -5,6 +5,11 @@ Our list of action replay cheats for you
 
 We have a new objective, which is to find every game with WFC support and implement a hack AR code that allows them to be able to connect to Wiimmfi.
 
+## Downloads
+
+[Current Release - v0.2](https://github.com/SparrOSDeveloperTeam/yoes-nds-cheat-database/releases/download/v0.2/yoes_usercheat-database_current.zip)
+[Old Release - v0.1](https://github.com/SparrOSDeveloperTeam/yoes-nds-cheat-database/releases/download/v0.1/usrcheat-old_v0.1.zip)
+
 ## Supported Games
 
 You will find that the graph below lists all games compatible with the WFC hack. (Pokemon is not available right now due to missing header info)
